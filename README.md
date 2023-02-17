@@ -6,7 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Jrashada/osTicket--prereq.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Jrashada/osTicket-Ticket-Lifecycle-Examples.git)
 - <b>Microsoft Azure</b>- 
-  -[Configuring Active Directory within Azure VMs](https://github.com/Jrashada/Active-Directory.git)
+ 
+ -[Configuring Active Directory within Azure VMs](https://github.com/Jrashada/Active-Directory.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Jrashada/Azure-network-protocals.git)
  
  
