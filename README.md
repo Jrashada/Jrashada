@@ -1,4 +1,4 @@
-###👋<h1>Hi, I'm Jameel, an <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">IT Professional</a>☺</h1>
+###👋<h1>Hi, I'm Jameel, an <a href="https://www.linkedin.com/in/jameel-rashada/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
